@@ -1,1 +1,12 @@
-# Getting Started with run npm run electron:serve or yarn electron:serve to show magic between react and nodejs and ELECTRON
+# File Explorer
+
+Run this project using npm:
+``` 
+npm install
+npm run electron:serve
+```
+Run this project using Yarn:
+``` 
+yarn install
+yarn electron:serve
+```
